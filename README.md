@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 # 💫 About Me:
 Hi, I'm Nishad Mahmud, a Computer Science student passionate about building intuitive, efficient, and user-friendly software. I love exploring the intersection of design and logic, whether it's through full-stack web development, Java-based desktop applications, or solving complex problems with clean code.<br><br>💻 What I Do<br>🌱 Currently learning and building with React, Node.js, and Firebase<br><br>⚙️ Experienced in Java, JavaScript, Python, and C++<br><br>🔧 Enjoy developing visual tools, automation scripts, and educational software<br><br>🧠 Always curious about algorithms, software architecture, and UI/UX<br><br>🛠 Projects I'm Proud Of<br>Logic Gates Simulator – A Java-based tool to design and simulate digital circuits<br><br>Plantopia – A full-stack e-commerce platform for gardening and plant care<br><br>Algorithm Visualizer – Interactive tool for visualizing data structures and algorithms<br><br><br>
 
